@@ -4,3 +4,7 @@ This is emi calculator project using jsp and servlet in J2ee.
 Detailed blog can and screenshot is here,
 <br>
 https://ngdeveloper.com/jsp-servlet-with-ajax-example/
+<br>
+<br>
+Same project without Ajax implementation, but using jsp, servlet is here,
+https://github.com/ngdeveloper-projects/jsp-servlet-emi-calculator
